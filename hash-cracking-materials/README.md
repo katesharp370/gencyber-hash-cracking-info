@@ -99,6 +99,6 @@ hashcat -m 1000 hash.txt -a 0 passwords.txt /usr/share/hashcat/rules/best64.rule
 
 Remember cracked hashes can be submitted on the banking website to earn points!
 
-https://megatroncyberbank.root66tulsa.club/
+https://reserve.root66tulsa.club/
 
 Cracking passwords without permission is illegal and unethical. Use this knowledge responsibly and only for authorized purposes.  
